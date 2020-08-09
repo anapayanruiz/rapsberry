@@ -1,0 +1,23 @@
+{
+  "name": "rapsberry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anapayanruiz/rapsberry.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anapayanruiz/rapsberry/issues"
+  },
+  "homepage": "https://github.com/anapayanruiz/rapsberry#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
